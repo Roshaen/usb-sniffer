@@ -11,7 +11,7 @@
 #define CPUCS_ADDR     0xe600
 #define TIMEOUT        250
 #define CTRL_REG_SIZE  4
-
+// This is a comment
 enum
 {
   CMD_FX2LP_REQUEST    = 0xa0,
