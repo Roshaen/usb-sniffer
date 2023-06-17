@@ -8,7 +8,7 @@
 #include "usb.h"
 #include "capture.h"
 #include "usb_sniffer.h"
-
+// added a new comment
 /*- Definitions -------------------------------------------------------------*/
 #define FX2LP_VID      0x04b4
 #define FX2LP_PID      0x8613
